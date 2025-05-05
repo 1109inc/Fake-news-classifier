@@ -1,5 +1,16 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*.pyc
+*.pkl
+*.ipynb_checkpoints/
+.env
+.DS_Store
+# Datasets
+*.csv
+
+# Model and vectorizer files
+*.pkl
+
 *.py[cod]
 *$py.class
 
